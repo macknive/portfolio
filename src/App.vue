@@ -60,8 +60,8 @@
         <div class="col-lg-7">
           <div class="about-descr">
 
-            <p class="p-heading">im a ux /ui designer austin based who loves clean, simple & unique design. i also enjoy crafting brand identities, icons, & ilustration work. </p>
-            <p class="separator">To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is. The European languages are members of the same family.English person.</p>
+            <p class="p-heading">im a ux /ui designer PH based who loves clean, simple & unique design. i also enjoy crafting brand identities, icons, & ilustration work. </p>
+            <p class="separator">This website is still and progress and would insert functions that will deliver results</p>
 
           </div>
 
@@ -82,7 +82,7 @@
 
             <i class="ion-ios-browsers-outline"></i>
             <span>UI/UX DESIGN</span>
-            <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+            <p class="separator">User interface design </p>
 
           </div>
 
@@ -90,7 +90,7 @@
 
             <i class="ion-ios-lightbulb-outline"></i>
             <span>BRAND IDENTITY</span>
-            <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+            <p class="separator">Creating unique projects</p>
 
           </div>
 
@@ -98,7 +98,7 @@
 
             <i class="ion-ios-color-wand-outline"></i>
             <span>WEB DESIGN</span>
-            <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+            <p class="separator">From scratch to templates, plugins to custom programs, anything is possible </p>
 
           </div>
 
@@ -106,7 +106,7 @@
 
             <i class="ion-social-android-outline"></i>
             <span>MOBILE APPS</span>
-            <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+            <p class="separator">Android and IOS app </p>
 
           </div>
 
@@ -114,7 +114,7 @@
 
             <i class="ion-ios-analytics-outline"></i>
             <span>Analytics</span>
-            <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+            <p class="separator">Charts and numbers from database, anything you need to know </p>
 
           </div>
 
@@ -122,7 +122,7 @@
 
             <i class="ion-ios-camera-outline"></i>
             <span>PHOTOGRAPHY</span>
-            <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+            <p class="separator">Hi resolution sample images to use </p>
 
           </div>
 
