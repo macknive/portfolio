@@ -61,7 +61,7 @@
           <div class="about-descr">
 
             <p class="p-heading">im a ux /ui designer PH based who loves clean, simple and unique design. i also enjoy crafting brand identities, icons, & ilustration work. </p>
-            <p class="separator">This website is still and progress and would insert functions that will deliver results</p>
+            <p class="separator">This website is still in progress and would insert functions that will deliver results</p>
 
           </div>
 
